@@ -1,0 +1,18 @@
+ chams 
+.rowsection{padding0px;]}
+
+.block-views-blockurgences-en-cours-block-1{padding 40px;background-color #ececec;}
+.block-views-blockurgences-en-cours-block-1 h2{text-align center;}
+
+.block-views-blockderniers-documents-block-1{padding 40px;background-color #fff;}
+.block-views-blockderniers-documents-block-1 h2{text-align center;}
+
+.block-views-blockdernieres-infographies-block-1{padding 40px;background-color #ececec;}
+.block-views-blockdernieres-infographies-block-1 h2{text-align center;}
+
+.box{
+		background-color #fff;
+		border-radius 5px;
+		padding 10px;
+		box-shadow 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
